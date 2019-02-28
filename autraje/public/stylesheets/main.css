@@ -1,7 +1,13 @@
-.imgmodel{
+.imgmodelmain{
     width:80%;
     margin: 0 auto;
 }
+
+.imgmodelprimaveravercao{
+    width:70%;
+    margin: 0 auto;
+}
+
 #imgedward{
     width:100%;
 }
@@ -14,3 +20,11 @@ body{
     background-color: rgb(230, 230, 230);
     width: 100%;
 }
+
+#back{
+    background-image: url("../images/dog1_terno.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
